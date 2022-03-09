@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Canal RSS de Sanctum-Sanctorum</title>
+    <link>https://danielms11.github.io/Sanctum-Sanctorum/</link>
+    <description>Noticias sobre cine y series</description>
+    <item>
+      <title>Noticias sobre Marvel</title>
+      <link>https://danielms11.github.io/Sanctum-Sanctorum/Marvel.html</link>
+      <description>Toda las noticias de interes sobre Marvel</description>
+    </item>
+  </channel>
+</rss>

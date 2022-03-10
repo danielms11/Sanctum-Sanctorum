@@ -5,25 +5,11 @@
     <link>https://danielms11.github.io/Sanctum-Sanctorum/</link>
     <description>Noticias sobre cine y series</description>
     <language>en-es</language>
+    <copyright>©Copyright 2050 by nobody. All rights reversed.</copyright>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
-    <skipHours>
-    <hour>0</hour>
-    <hour>1</hour>
-    <hour>2</hour>
-    <hour>3</hour>
-    <hour>4</hour>
-    <hour>5</hour>
-    <hour>6</hour>
-    <hour>7</hour>
-    <hour>8</hour>
-    <hour>20</hour>
-    <hour>21</hour>
-    <hour>22</hour>
-    <hour>23</hour>
-  </skipHours>
     <image>
       <url>https://danielms11.github.io/Sanctum-Sanctorum/SanctumSanctorum.png</url>
       <title>Canal RSS de Sanctum-Sanctorum</title>
@@ -33,6 +19,11 @@
       <title>Noticias sobre Marvel</title>
       <link>https://danielms11.github.io/Sanctum-Sanctorum/Marvel.html</link>
       <description>Toda las noticias de interes sobre Marvel</description>
+    </item>
+    <item>
+      <title>Noticias sobre DC</title>
+      <link>https://danielms11.github.io/Sanctum-Sanctorum/DC.html</link>
+      <description>Toda las noticias de interes sobre DC</description>
     </item>
   </channel>
 </rss>

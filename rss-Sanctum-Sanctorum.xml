@@ -5,8 +5,25 @@
     <link>https://danielms11.github.io/Sanctum-Sanctorum/</link>
     <description>Noticias sobre cine y series</description>
     <language>en-es</language>
-    <webMaster>sanctumsanctorum@gmail.com</webMaster>
-    <lastBuildDate>jue, 10 Mar 2022</lastBuildDate>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <skipHours>
+    <hour>0</hour>
+    <hour>1</hour>
+    <hour>2</hour>
+    <hour>3</hour>
+    <hour>4</hour>
+    <hour>5</hour>
+    <hour>6</hour>
+    <hour>7</hour>
+    <hour>8</hour>
+    <hour>20</hour>
+    <hour>21</hour>
+    <hour>22</hour>
+    <hour>23</hour>
+  </skipHours>
     <image>
       <url>https://danielms11.github.io/Sanctum-Sanctorum/SanctumSanctorum.png</url>
       <title>Canal RSS de Sanctum-Sanctorum</title>

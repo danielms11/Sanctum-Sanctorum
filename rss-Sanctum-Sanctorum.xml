@@ -4,6 +4,8 @@
     <title>Canal RSS de Sanctum-Sanctorum</title>
     <link>https://danielms11.github.io/Sanctum-Sanctorum/</link>
     <description>Noticias sobre cine y series</description>
+    <language>en-es</language>
+    <webMaster>sanctumsanctorum@gmail.com</webMaster>
     <image>
       <url>SanctumSanctorum.png</url>
       <title>Sanctum Sanctorum</title>
